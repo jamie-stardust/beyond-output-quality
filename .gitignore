@@ -1,0 +1,5 @@
+# Local setup + unsent-email scratch — never ship these
+_SETUP-DELETE-BEFORE-PUBLIC.md
+_EMAIL-DRAFT-DELETE-BEFORE-PUBLIC.md
+
+.DS_Store
